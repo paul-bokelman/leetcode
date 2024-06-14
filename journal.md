@@ -22,3 +22,11 @@
 - Two Sum (Easy)
 - Nearest Exit from Entrance in Maze (Medium) (UNFINISHED)
 - Group Anagrams (Medium)
+
+6/14/24
+
+- Find Pivot Index (Easy)
+- Top K Frequent Elements (Medium)
+- Find Difference of Two Arrays (Easy)
+- Unique Number of Occurrences (Easy)
+- Reverse Linked List (Easy)
