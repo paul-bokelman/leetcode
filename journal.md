@@ -30,3 +30,10 @@
 - Find Difference of Two Arrays (Easy)
 - Unique Number of Occurrences (Easy)
 - Reverse Linked List (Easy)
+
+6/16/24
+
+- Reverse Linked List (Other Approach) (Easy)
+- String Encode and Decode (Medium)
+- Number of Recent Calls (Easy)
+- Maximum Depth of Binary Tree (Easy)
