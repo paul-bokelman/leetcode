@@ -36,4 +36,14 @@
 - Reverse Linked List (Other Approach) (Easy)
 - String Encode and Decode (Medium)
 - Number of Recent Calls (Easy)
-- Maximum Depth of Binary Tree (Easy)
+
+6/17/24
+
+- Maximum Depth of Binary Tree (Easy) (UNFINISHED)
+- Build tree from array (UTILS)
+
+6/18/24
+
+- Maximum Depth of Binary Tree
+- Min Cost Climbing Stairs (Easy)
+- Search in Binary Search Tree (Easy)
