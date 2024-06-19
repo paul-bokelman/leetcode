@@ -39,7 +39,7 @@
 
 6/17/24
 
-- Maximum Depth of Binary Tree (Easy) (UNFINISHED)
+- Maximum Depth of Binary Tree (Easy)
 - Build tree from array (UTILS)
 
 6/18/24
@@ -48,3 +48,9 @@
 - Min Cost Climbing Stairs (Easy) (UNFINISHED)
 - Search in Binary Search Tree (Easy)
 - N-th Tribonacci Number (Easy)
+
+6/19/24
+
+- Guess Number Higher or Lower (Easy)
+- Counting Bits (Easy)
+- Single Number (Easy)

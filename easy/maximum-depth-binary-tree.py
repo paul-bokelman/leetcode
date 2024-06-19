@@ -50,7 +50,7 @@ class Solution:
                 if current_node.right is not None:
                     queue.append(current_node.right)
             
-            queue = queue[layer_bound:] # 
-            depth += 1 # 
+            queue = queue[layer_bound:] # remove previous nodes
+            depth += 1 # increment depth
 
         return depth
