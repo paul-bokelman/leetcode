@@ -45,5 +45,6 @@
 6/18/24
 
 - Maximum Depth of Binary Tree
-- Min Cost Climbing Stairs (Easy)
+- Min Cost Climbing Stairs (Easy) (UNFINISHED)
 - Search in Binary Search Tree (Easy)
+- N-th Tribonacci Number (Easy)

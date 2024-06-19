@@ -7,6 +7,8 @@ class TreeNode:
         self.left = left
         self.right = right
 
+#! doesn't properly build [1,2,null,3,null,4,null,5]
+
 # build referenced tree
 def buildTree(tree: list[Optional[int]]) -> TreeNode | None: 
     # if there is no root we can't construct a tree
