@@ -54,3 +54,9 @@
 - Guess Number Higher or Lower (Easy)
 - Counting Bits (Easy)
 - Single Number (Easy)
+
+6/21/24
+
+- Leaf-Similar Trees (Easy)
+- Binary Search (Easy)
+- Asteroid Collision (Medium)
