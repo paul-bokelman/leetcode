@@ -60,3 +60,28 @@
 - Leaf-Similar Trees (Easy)
 - Binary Search (Easy)
 - Asteroid Collision (Medium)
+
+6/23/24
+
+- Remove Stars From String (MEDIUM)
+- Determine if Two Strings Are Close (MEDIUM)
+
+6/25/24
+
+- Fibonacci Number (EASY)
+- Knapsack Problem
+- Longest Increasing Subsequence (MEDIUM)
+
+6/27/24
+
+- Find Center of Star Graph (EASY)
+- Climbing Stairs (EASY)
+- Pascal's Triangle (EASY)
+- Power of Three (EASY)
+
+6/28/24
+
+- Equal Row and Column Pairs (MEDIUM)
+- Palindrome Linked List (EASY)
+- Parse Boolean Expression (HARD)
+- Find the Winner of the Circular Game (MEDIUM)
